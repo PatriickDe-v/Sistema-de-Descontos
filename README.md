@@ -1,6 +1,5 @@
-Esse sistema será usado na loja no qual eu trabalho atualmente, assim facilitando o cálculo na hora da venda.
-
 # Sistema-de-Descontos
+ ## Esse sistema será usado na loja no qual eu trabalho atualmente, assim facilitando o cálculo na hora da venda.
  Sistema que calcula a quantidade de desconto se uma pessoa é mecânico ou não.
  
 
